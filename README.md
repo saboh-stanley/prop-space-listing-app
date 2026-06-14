@@ -145,14 +145,6 @@ prop_space/
 
 ---
 
-## ⭐ Show your support
 
-Give a ⭐ if this project helped you!
 
-**Then commit and push to GitHub:**
 
-```cmd
-git add README.md
-git commit -m "Add README"
-git push
-```
